@@ -1,24 +1,87 @@
 {
-  "laberinto-demo": "",
-  "laberinto-venganza": "",
-  "laberinto": "",
-  "super-eduardo-bros": "",
-  "vestir-eduardo": "",
-  "donde-esta-eduardo": "",
-  "super-eduardo-bros-2": "",
-  "donde-esta-eduardo-2": "",
-  "laberinto-2": "",
-  "laberinto-mc": "",
-  "eduardo-jump": "",
-  "super-jetix-bros": "",
+  "laberinto-demo": {
+    "app": "",
+    "icon": ""
+  },
+  "laberinto-venganza": {
+    "app": "",
+    "icon": ""
+  },
+  "laberinto": {
+    "app": "",
+    "icon": ""
+  },
+  "super-eduardo-bros": {
+    "app": "",
+    "icon": ""
+  },
+  "vestir-eduardo": {
+    "app": "",
+    "icon": ""
+  },
+  "donde-esta-eduardo": {
+    "app": "",
+    "icon": ""
+  },
+  "super-eduardo-bros-2": {
+    "app": "",
+    "icon": ""
+  },
+  "donde-esta-eduardo-2": {
+    "app": "",
+    "icon": ""
+  },
+  "laberinto-2": {
+    "app": "",
+    "icon": ""
+  },
+  "laberinto-mc": {
+    "app": "",
+    "icon": ""
+  },
+  "eduardo-jump": {
+    "app": "",
+    "icon": ""
+  },
+  "super-jetix-bros": {
+    "app": "",
+    "icon": ""
+  },
   "educraft": "",
-  "flappy-eduardo": "",
-  "eduardo-shooter": "",
-  "crea-tu-eduardo": "",
-  "super-eduardo-bros-3": "",
-  "eduardo-jetpack": "",
-  "super-eduardo-bros-holiday": "",
-  "rabbit-quest": "",
-  "eduardo-lost": "",
-  "war-of-box": ""
+  "flappy-eduardo": {
+    "app": "",
+    "icon": ""
+  },
+  "eduardo-shooter": {
+    "app": "",
+    "icon": ""
+  },
+  "crea-tu-eduardo": {
+    "app": "",
+    "icon": ""
+  },
+  "super-eduardo-bros-3": {
+    "app": "",
+    "icon": ""
+  },
+  "eduardo-jetpack": {
+    "app": "",
+    "icon": ""
+  },
+  "super-eduardo-bros-holiday": {
+    "app": "",
+    "icon": ""
+  },
+  "rabbit-quest": {
+    "app": "",
+    "icon": ""
+  },
+  "eduardo-lost": {
+    "app": "",
+    "icon": ""
+  },
+  "war-of-box": {
+    "app": "",
+    "icon": ""
+  }
 }
