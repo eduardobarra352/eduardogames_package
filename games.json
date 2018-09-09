@@ -1,11 +1,11 @@
 {
   "laberinto-demo": {
     "app": "",
-    "icon": "El Laberinto Demo B.png"
+    "icon": "./El Laberinto Demo B.png/"
   },
   "laberinto-venganza": {
     "app": "",
-    "icon": "Laberinto la Venganza B.png"
+    "icon": "./Laberinto la Venganza B.png/"
   },
   "laberinto": {
     "app": "",
