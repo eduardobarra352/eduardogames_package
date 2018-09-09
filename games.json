@@ -1,8 +1,8 @@
 {
   "games": {
     "laberinto-demo": {
-    "app": "",
-    "icon": "./El Laberinto Demo B.png"
+      "app": "",
+      "icon": "./El Laberinto Demo B.png"
     },
     "laberinto-venganza": {
       "app": "",
