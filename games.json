@@ -2,91 +2,113 @@
   "games": {
     "laberinto-demo": {
       "app": "",
+      "banner": "",
       "icon": "./El Laberinto Demo B.png"
     },
     "laberinto-venganza": {
       "app": "",
+      "banner": "",
       "icon": "./Laberinto la Venganza B.png"
     },
     "laberinto": {
       "app": "",
+      "banner": "",
       "icon": "./El Laberinto B.png"
     },
     "super-eduardo-bros": {
       "app": "",
+      "banner": "",
       "icon": "./Super Eduardo Bros B.png"
     },
     "vestir-eduardo": {
       "app": "",
+      "banner": "",
       "icon": "./Vestir a Eduardo B.png"
     },
     "donde-esta-eduardo": {
       "app": "",
+      "banner": "",
       "icon": "./Donde Esta el Eduardo y sus Amigos B.png"
     },
     "super-eduardo-bros-2": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "donde-esta-eduardo-2": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "laberinto-2": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "laberinto-mc": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "eduardo-jump": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "super-jetix-bros": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "educraft": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "flappy-eduardo": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "eduardo-shooter": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "crea-tu-eduardo": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "super-eduardo-bros-3": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "eduardo-jetpack": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "super-eduardo-bros-holiday": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "rabbit-quest": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "eduardo-lost": {
       "app": "",
+      "banner": "",
       "icon": ""
     },
     "war-of-box": {
       "app": "",
-      "icon": ""
+      "banner": "./juegos/war-of-box.png",
+      "icon": "./War of Box B.png"
     }
   }
 }
