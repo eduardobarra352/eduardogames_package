@@ -106,8 +106,8 @@
       "icon": ""
     },
     "war-of-box": {
-      "app": "",
-      "banner": "./juegos/war-of-box.png",
+      "app": "./juegos/war-of-box.swf",
+      "banner": "./portadas/war-of-box.png",
       "icon": "./War of Box B.png"
     }
   }
