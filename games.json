@@ -1,114 +1,26 @@
 {
   "games": {
-    "laberinto-demo": {
-      "app": "",
-      "banner": "",
-      "icon": "./El Laberinto Demo B.png"
-    },
-    "laberinto-venganza": {
-      "app": "",
-      "banner": "",
-      "icon": "./Laberinto la Venganza B.png"
-    },
-    "laberinto": {
-      "app": "",
-      "banner": "",
-      "icon": "./El Laberinto B.png"
-    },
-    "super-eduardo-bros": {
-      "app": "",
-      "banner": "",
-      "icon": "./Super Eduardo Bros B.png"
-    },
-    "vestir-eduardo": {
-      "app": "",
-      "banner": "",
-      "icon": "./Vestir a Eduardo B.png"
-    },
-    "donde-esta-eduardo": {
-      "app": "",
-      "banner": "",
-      "icon": "./Donde Esta el Eduardo y sus Amigos B.png"
-    },
-    "super-eduardo-bros-2": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "donde-esta-eduardo-2": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "laberinto-2": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "laberinto-mc": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "eduardo-jump": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "super-jetix-bros": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "educraft": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "flappy-eduardo": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "eduardo-shooter": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "crea-tu-eduardo": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "super-eduardo-bros-3": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "eduardo-jetpack": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "super-eduardo-bros-holiday": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "rabbit-quest": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "eduardo-lost": {
-      "app": "",
-      "banner": "",
-      "icon": ""
-    },
-    "war-of-box": {
-      "app": "./juegos/war-of-box.swf",
-      "banner": "./portadas/war-of-box.png",
-      "icon": "./War of Box B.png"
-    }
+    "laberinto_demo": "",
+    "laberinto_venganza": "",
+    "laberinto": "",
+    "super_eduardo_bros": "",
+    "vestir_eduardo": "",
+    "donde_esta_eduardo": "",
+    "super_eduardo_bros-2": "",
+    "donde_esta_eduardo-2": "",
+    "laberinto_2": "",
+    "laberinto_mc": "",
+    "eduardo_jump": "",
+    "super_jetix_bros": "",
+    "educraft": "",
+    "flappy_eduardo": "",
+    "eduardo_shooter": "",
+    "crea_tu_eduardo": "",
+    "super_eduardo_bros-3": "",
+    "eduardo_jetpack": "",
+    "super_eduardo_bros_holiday": "",
+    "rabbit_quest": "",
+    "eduardo_lost": "",
+    "war_of_box": "./juegos/war-of-box.swf"
   }
 }
