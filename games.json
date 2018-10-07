@@ -1,27 +1,3 @@
 {
-  "version": "1.1.5",
-  "games": {
-    "laberinto_demo": "",
-    "laberinto_venganza": "",
-    "laberinto": "",
-    "super_eduardo_bros": "",
-    "vestir_eduardo": "",
-    "donde_esta_eduardo": "",
-    "super_eduardo_bros-2": "",
-    "donde_esta_eduardo-2": "",
-    "laberinto_2": "",
-    "laberinto_mc": "",
-    "eduardo_jump": "",
-    "super_jetix_bros": "",
-    "educraft": "",
-    "flappy_eduardo": "",
-    "eduardo_shooter": "",
-    "crea_tu_eduardo": "",
-    "super_eduardo_bros-3": "",
-    "eduardo_jetpack": "",
-    "super_eduardo_bros_holiday": "",
-    "rabbit_quest": "",
-    "eduardo_lost": "",
-    "war_of_box": "./juegos/war-of-box.swf"
-  }
+  "version": "1.1.5"
 }
